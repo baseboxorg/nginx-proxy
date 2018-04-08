@@ -1,4 +1,4 @@
-resin/armhf-alpine
+FROM resin/armhf-alpine
 
 RUN [ "cross-build-start" ]
 
